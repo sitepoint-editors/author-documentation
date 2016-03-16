@@ -36,7 +36,7 @@ Listicles have an awful reputation, often equated with clickbait and lazy, easy 
 
 ### A few things to keep in mind:
 
-- Once again: Our audience wants an answer to their questions. Don't waste their time. An article promising "5 of the best prototyping apps" is far more attractive than one promising "54 of the best prototyping apps". If a given category is crowded with lots of options, help the reader out by narrowing them down.\
+- Once again: Our audience wants an answer to their questions. Don't waste their time. An article promising "5 of the best prototyping apps" is far more attractive than one promising "54 of the best prototyping apps". If a given category is crowded with lots of options, help the reader out by narrowing them down.
 
 - A listicle format is no excuse for a lazy article absent any insight. In a list of particular apps or platforms, tell a reader _why_ a given option is in the list, explain its pros and cons, and go further than a simple explanation readers could find on Wikipedia or the option's GitHub page.
 
