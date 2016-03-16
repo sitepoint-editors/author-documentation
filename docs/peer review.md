@@ -1,6 +1,6 @@
 # Peer Review
 
-Peer Review is a programme we're running across many of our channels at SitePoint. The goal is to improve the quality of SitePoint's articles, help authors develop their writing and technical skils, and give editors the space to provide important feedback.
+Peer Review is a programme we're running across many of our channels at SitePoint. The goal is to improve the quality of SitePoint's articles, help authors develop their writing and technical skills, and give editors the space to provide important feedback.
 
 This is not a typical scientific peer review – no detailed reviews need to happen and the editor’s word is still final, but we are trying to gather feedback on certain posts before publishing them.
 
