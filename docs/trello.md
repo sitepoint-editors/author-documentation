@@ -26,7 +26,7 @@ Editors can also add cards for topics they would like covered to the "Approved I
 
 ### In Progress
 
-If an article is being placed into Peer Review, a link to the Pull Request should be added to the card. If not, the draft should be attached to the card as a markdown file.
+If an article is being placed into Peer Review, a link to the Pull Request should be added to the card. If not, the draft should be attached to the card as a Markdown file.
 
 Depending on whether a channel is using Peer Review to handle article editing, further discussion on an article may happen on GitHub or on the card itself.
 
