@@ -4,8 +4,8 @@ Follow these guidelines when writing for SitePoint, and refer to them before sub
 
 ## Process
 
-- [Article Tiers and Word Counts](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/article-tiers-author-payments.md) - The general payment tiers we use, and how they relate to word counts.
-- [Articles We Publish](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/articles-we-publish.md) - A look at the kinds of articles we publish. Includes a discussion of articles, tutorials, listicles, Q&As and conference coverage.
+- [Article Tiers and Word Counts](docs/article-tiers-author-payments.md) - The general payment tiers we use, and how they relate to word counts.
+- [Articles We Publish](docs/articles-we-publish.md) - A look at the kinds of articles we publish. Includes a discussion of articles, tutorials, listicles, Q&As and conference coverage.
 - [Working with Editors](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/working-with-editors.md) - Ideas for getting the most out of the author-editor relationship, along with a description of the editorial process.
 - [Peer Review](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/peer-review.md) - A description of the Peer Review program, and a link to learn more and sign up.
 - [Pitching Editors](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/pitching.md) - A concise description of what we look for in an article pitch.
