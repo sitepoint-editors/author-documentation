@@ -2,7 +2,7 @@
 
 ## We have five main tiers of articles: 
 
-- **Quick tips** are bite-sized articles that are highly focused on a specific technique or approach. They're targeted at what we know readers are searching for and are a way to answer their questions quickly. For more information on quick tips, [visit the documentation](https://github.com/sitepoint-editors/author-documentation/blob/master/authors/quick%20tips.md)
+- **Quick tips** are bite-sized articles that are highly focused on a specific technique or approach. They're targeted at what we know readers are searching for and are a way to answer their questions quickly. For more information on quick tips, [visit the documentation](quick-tips.md)
 
 - **Regular articles** are short articles (~800 to 1,500 words) covering a technology, a new product or service, something new and interesting happening on the web, etc. 
 
