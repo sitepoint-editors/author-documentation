@@ -2,6 +2,8 @@
 
 Slack is the primary mode of communication for SitePoint employees, editors, contributors and ambassadors. Slack is an interesting combination of synchronous and asynchronous communication, with elements of email and chat.
 
+If you're interested in joining out Slack team, contact your editor and ask for access.
+
 Feel free to use Slack to message editors and fellow authors. People are happy to chat about tech and other things. (This should go without saying but please avoid using Slack to hound editors about the status of your articles!)
 
 Slack is enormously useful, but it can present challenges. A few tips:

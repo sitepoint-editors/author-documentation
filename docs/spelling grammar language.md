@@ -1,10 +1,14 @@
 # Spelling, Grammar and Acceptable Language
 
-All articles published on SitePoint should be free of spelling and grammar mistakes. It's impossible to catch every single typo, but authors should make an effort to make sure their work is to a publishable standard _before_ sending it to their editor. If you spot an error with one of your articles (or an article published by someone else) 
+All articles published on SitePoint should be free of spelling and grammar mistakes. It's impossible to catch every single typo, but authors should make an effort to make sure their work is to a publishable standard _before_ sending it to their editor. If you spot an error with one of your articles (or an article published by someone else) please let your editor know.
+
+**Note**: All articles should be submitted in markdown.
 
 ## Spelling
 
 Please use a spell checker. Typos are common and easily missed, but spell checkers handle the heavy lifting. Spell check won't always catch acronyms and technical terms, so watch out for these.
+
+**Please rememebr: we use US spelling in all our articles.**
 
 ## Grammar
 
@@ -17,7 +21,11 @@ Make sure you understand the difference between:
 - there, their, they're
 - to, too, two
 
-Understand that a hyphen is not the same as a long dash
+Company names - When writing about startups, companies and products, check to make sure you have capitalized according to their preferences. For example: SitePoint, WordPress, jQuery, iPhone, GitHub.
+
+Sentences that start with a lowercased company or product, like 'iPhone' or 'jQuery' should retain the style. For example, "iPhones are a very popular product."
+
+Understand that a hyphen is not the same as a long dash.
 
 To quote from [Louis Lazaris' excellent piece on writing](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/):
 
