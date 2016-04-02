@@ -8,7 +8,7 @@ Follow these guidelines when writing for SitePoint, and refer to them before sub
 - [Articles We Publish](docs/articles-we-publish.md) - A look at the kinds of articles we publish. Includes a discussion of articles, tutorials, listicles, Q&As and conference coverage.
 - [Working with Editors](docs/working-with-editors.md) - Ideas for getting the most out of the author-editor relationship, along with a description of the editorial process.
 - [Peer Review](docs/peer-review.md) - A description of the Peer Review program, and a link to learn more and sign up.
-- [Pitching Editors](docs/pitching.md) - A concise description of what we look for in an article pitch.
+- [Pitching Articles](docs/pitching.md) - A concise description of what we look for in an article pitch.
 - [Quick Tips](docs/quick-tips.md) - Quick Tips are a new article format - this doc explains how they're structured and how to produce them.
 
 ## Tools
