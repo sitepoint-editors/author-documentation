@@ -29,7 +29,7 @@ Understand that a hyphen is not the same as a long dash.
 
 To quote from [Louis Lazaris' excellent piece on writing](http://www.impressivewebs.com/how-to-write-great-web-development-articles-tutorials/):
 
->Hyphens are used for math, phone numbers, breaking words onto new lines, in compound words (e.g. “accident-prone” or “five-column grid”), and so on. But they shouldn’t be used at the start of an interjection in a sentence. That’s where you need a long dash. You can copy and paste a real long dash (—), or you can use the character entity, `&mdash;`. Also, most style guides recommend no spaces before and after the long dash, although apparently it’s not a hard-and-fast rule.
+>Hyphens are used for math, phone numbers, breaking words onto new lines, in compound words (e.g. “accident-prone” or “five-column grid”), and so on. But they shouldn’t be used at the start of an interjection in a sentence. That’s where you need a long dash. You can copy and paste a real long dash (—), you can type three hyphens in the markdown copy, or you can use the character entity, `&mdash;`. Also, most style guides recommend no spaces before and after the long dash, although apparently it’s not a hard-and-fast rule.
 
 ### Consistency
 
