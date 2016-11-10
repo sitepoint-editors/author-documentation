@@ -18,4 +18,4 @@ They should also come from research into what people are searching for. The best
 
 ## Payment
 
-They pay less than a typical article as a reflection of their relative depth and difficulty.
+Quick Tips pay less than a typical article as a reflection of their relative depth and difficulty, but the exact amount differs and is determined by your editor.
