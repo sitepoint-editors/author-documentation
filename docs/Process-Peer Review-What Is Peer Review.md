@@ -1,5 +1,5 @@
 # What is Peer Review?
----
+
 The goal of Peer Review is to ensure all of SitePoint’s articles are of the highest standards. It is also there to help authors with their writing through constructive feedback from the editor and fellow authors.
 
 
