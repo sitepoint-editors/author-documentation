@@ -4,8 +4,8 @@ The goal of Peer Review is to ensure all of SitePoint’s articles are of the hi
 
 **How does Peer Review work?**
 Prior to contacting our editors and requesting access to their Peer Review processes, we recommend reading the following documents first: 
-- Being SitePoint's Peer Reviewer (.MD LINK HERE - could possibly just add this below on this page)
-- Submitting a draft for peer review (.MD LINK HERE)
+- [Being SitePoint's Peer Reviewer](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Process-Peer%20Review-Guidelines%20for%20Peer%20Review.md)
+- [Submitting a draft for peer review](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Process-Submitting%20a%20draft%20for%20Peer%20Reviewing.md)
 
 
 To contact the editor and join their Peer Review process, please find their details below:
