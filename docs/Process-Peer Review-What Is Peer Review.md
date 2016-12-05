@@ -30,7 +30,7 @@ This section provides answers to the common questions we receive during the Peer
 
 **Q: I have code to include with my article. Where do I put it?**
 
-A: The files you talk about / develop, you should put into the post in code fences, like so:
+The files you talk about / develop, you should put into the post in code fences, like so:
 
 ```php
 <?php
@@ -41,14 +41,13 @@ The final demo code should be put into a GitHub repository on your own GitHub ac
 
 **Q: Can I update the code I wrote?**
 
-A: Absolutely.
-
+Absolutely.
 
 You can update it and just tell us about it, and we’ll bring the fork into sync with your code. In cases of BC breaks or something incompatible with the article in which the code was presented, we’ll make a disclaimer at the top, usually linking to the exact commit in which the code was when the post was published. Another approach is writing an “X revisited” tutorial in which you go through the changes, explain them, demonstrate them, and turn it all into a learning process. We would, of course, pay for a quality article about the process. This is the preferred method, but is only viable when the difference is noticeable enough.
 
 **Q: Can I repost work I published with SitePoint on my own blog?**
 
-A: We cover this in our Copyright section. (LINK HERE)
+We cover this in our Copyright section. (LINK HERE)
 
 **Q: Can I translate a post into my native language and host it on my blog / site?**
 
@@ -56,14 +55,14 @@ We cover this in our Copyright section (LINK HERE)
 
 **Q: I don’t like giving sites my information and am against social network style hubs. Do I have to use GitHub?**
 
-A: Yes. Feel free to make an anonymous account just for the purpose of publishing your post if it makes you feel better.
+Yes. Feel free to make an anonymous account just for the purpose of publishing your post if it makes you feel better.
 
 **Q: Are links allowed in the author bio?**
 
-A: Yes. Feel free to put whatever you want in there (within reason), as long as it doesn’t exceed two short paragraphs and can’t be deemed offensive to anyone.
+Yes. Feel free to put whatever you want in there (within reason), as long as it doesn’t exceed two short paragraphs and can’t be deemed offensive to anyone.
 
 **Q: Does my author avatar have to be a mugshot? Can I upload a logo / illustration / etc?**
 
-A: Your profile picture must be a real photo of you, as we want authenticity. Should you feel an image of you will be an issue, please consult your editor about it.
+Your profile picture must be a real photo of you, as we want authenticity. Should you feel an image of you will be an issue, please consult your editor about it.
 
 If you have any other questions that aren't in this list, please get in touch with the specific channel editor.
