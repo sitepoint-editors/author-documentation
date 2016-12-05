@@ -21,9 +21,9 @@ To contact the editor and join their Peer Review process, please find their deta
 
 Ensure the subject line is **'[Channel] Peer Review Request'.**
 
-**Note:** All of our Peer Review processes are completed via Github, *therefore you must have a Github account to take part.*
+**Note:** All of our Peer Review processes are completed via GitHub, *therefore you must have a GitHub account to take part.*
 
-When a channel editor invites you to the repository of a channel, you’ll be sent an invite email, but you can also accept the invitation via Github’s UI by going to http://github.com/sitepoint-editors and clicking “View Invitation”.
+When a channel editor invites you to the repository of a channel, you’ll be sent an invite email, but you can also accept the invitation via GithHub’s UI by going to http://github.com/sitepoint-editors and clicking “View Invitation”.
 
 ## Frequently Asked Questions (FAQ)
 This section provides answers to the common questions we receive during the Peer Review process. 
@@ -36,7 +36,7 @@ A: The files you talk about / develop, you should put into the post in code fenc
 
 $this->is('my_code');
 ```
-The final demo code should be put into a Github repository on your own Github account. Your editor will then fork your repo into the official SitePoint account, so we can have a persistent copy of your code for future reference.
+The final demo code should be put into a GitHub repository on your own GitHub account. Your editor will then fork your repo into the official SitePoint account, so we can have a persistent copy of your code for future reference.
 
 **Q: Can I update the code I wrote?**
 A: Absolutely.
@@ -49,7 +49,7 @@ A: We cover this in our Copyright section. (LINK HERE)
 **Q: Can I translate a post into my native language and host it on my blog / site?**
 We cover this in our Copyright section (LINK HERE)
 
-**Q: I don’t like giving sites my information and am against social network style hubs. Do I have to use Github?**
+**Q: I don’t like giving sites my information and am against social network style hubs. Do I have to use GitHub?**
 A: Yes. Feel free to make an anonymous account just for the purpose of publishing your post if it makes you feel better.
 
 **Q: Are links allowed in the author bio?**
