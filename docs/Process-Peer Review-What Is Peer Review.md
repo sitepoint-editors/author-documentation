@@ -41,6 +41,7 @@ The final demo code should be put into a GitHub repository on your own GitHub ac
 **Q: Can I update the code I wrote?**
 A: Absolutely.
 
+
 You can update it and just tell us about it, and we’ll bring the fork into sync with your code. In cases of BC breaks or something incompatible with the article in which the code was presented, we’ll make a disclaimer at the top, usually linking to the exact commit in which the code was when the post was published. Another approach is writing an “X revisited” tutorial in which you go through the changes, explain them, demonstrate them, and turn it all into a learning process. We would, of course, pay for a quality article about the process. This is the preferred method, but is only viable when the difference is noticeable enough.
 
 **Q: Can I repost work I published with SitePoint on my own blog?**
