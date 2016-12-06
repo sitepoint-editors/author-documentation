@@ -1,5 +1,5 @@
 # Demos and Downloadable Code Samples
----
+
 Most tutorials, and some articles, published on SitePoint will be enhanced with a demo of the code and its result. We have a number of services we use to embed demos into articles.
 
 ### [GitHub](https://github.com/)
