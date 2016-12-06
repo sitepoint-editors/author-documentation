@@ -35,7 +35,8 @@ git commit -m "My first article"
 git push origin my-new-article
 ```
 7. Send a [pull request](https://help.github.com/articles/about-pull-requests/).
-(EMBED GIF - ‘SBS - STEP 3’)
+![Step 7](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1434743210peers-example-pr.gif)
+
 
 **Multi-part articles:**
 If you got approval from the editor to submit a multi-part post, then put each part in its own folder.
