@@ -33,6 +33,3 @@ Here are some examples:
 - Put the lang attribute on the <html> tag.
 - Have a useful <title> for the page. Making an SPA? Change that as the view changes to reflect the current page.
 - All form controls should have labels. No, the first option of a <select> tag or similar is not a label -- the first option is the first option. So add a label. Use the for attribute. If the design calls for no labels, then hide it offscreen or clip it.
-
-### 6. No Auto-play
-This goes for videos, decorative-background videos, carousels, and even for transition events. Easiest is to let the user turn it off (and in a super-obvious way).
