@@ -8,11 +8,11 @@ Providing feedback is as simple as reading the article and posting your comments
 We recommend you pick posts with the least amount of feedback. Generally, look through the pull requests, but prioritize those posts that are still under review. The older they are, the more important it is to review them.
 
 ### How to provide feedback on someone's submission
-Below is how you can drop a general comment into a submission: 
-(INSERT IMAGE - 'BEING A PEER REVIEWER - INSERT SIMPLE COMMENTS - 1)
+Below is how you can drop a general comment into a submission:
+![Inserting a comment into a submission](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1434802154peers-review-example.gif)
 
 Below is how to insert a comment on a **specific** part of the article:
-(INSERT IMAGE - 'BEING A PEER REVIEWER - INSERT SIMPLE COMMENTS - 2)
+
 
 **Note:** All of the feedback on a submission is constructive. Please don't take it personally, as authors and editors are there to help the piece be better.
 
