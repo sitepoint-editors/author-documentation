@@ -41,13 +41,16 @@ Finally, send a [pull request](https://help.github.com/articles/about-pull-reque
 
 **Multi-part articles:**
 If you got approval from the editor to submit a multi-part post, then put each part in its own folder.
+
 ![Multi-part articles image](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/05/1433237933Screenshot-2015-06-02-11.38.22.png)
 
 **When submission is complete:**
 Once a draft PR is submitted, it will be given a label of peer review:
+
 ![Completed submission image](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1433238647Screenshot-2015-06-02-11.50.35.png)
 
 It will then have to be in peer review mode for a specific amount of time or reviewed by a specific number of people before moving into editor review stage:
+
 ![Peer Review review stage](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1433238787Screenshot-2015-06-02-11.52.48.png)
 
 The duration and number of needed reviews will vary per channel. Wait for feedback from other authors, or for feedback from the channel editor and make the changes accordingly. 
