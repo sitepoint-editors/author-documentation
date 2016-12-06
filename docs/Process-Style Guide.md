@@ -1,5 +1,5 @@
 # Style Guide
----
+
 ### Markdown
 We only accept drafts in a MarkDown (.md) file. If you are not familiar with MarkDown files, [here is a great resource to get you started.](http://www.markdowntutorial.com/)
 
