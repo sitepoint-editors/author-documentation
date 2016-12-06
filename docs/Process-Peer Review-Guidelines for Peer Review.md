@@ -14,6 +14,7 @@ Below is how you can drop a general comment into a submission:
 
 Below is how to insert a comment on a **specific** part of the article:
 
+![Inserting a comment into a submission](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1434802206peers-review-example2.gif)
 
 **Note:** All of the feedback on a submission is constructive. Please don't take it personally, as authors and editors are there to help the piece be better.
 
