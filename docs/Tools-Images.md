@@ -1,5 +1,5 @@
 # Using Images in your article
----
+
 Images are very important in an article because they break up the content and illustrate ideas in a visual format. Every article should have at least one image. 
 
 All images in SitePoint articles should be hosted on our CDN. Images for article come about in three ways:
