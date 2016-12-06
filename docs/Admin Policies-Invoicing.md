@@ -1,5 +1,5 @@
 # Invoicing SitePoint
----
+
 It's our privilege to work with such a huge, diverse group of talented contributors, and we love being able to pay them for their time, effort and experience.
 
 If you've contributed to SitePoint, here's how to get paid.
