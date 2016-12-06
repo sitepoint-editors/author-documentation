@@ -9,6 +9,7 @@ We recommend you pick posts with the least amount of feedback. Generally, look t
 
 ### How to provide feedback on someone's submission
 Below is how you can drop a general comment into a submission:
+
 ![Inserting a comment into a submission](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1434802154peers-review-example.gif)
 
 Below is how to insert a comment on a **specific** part of the article:
