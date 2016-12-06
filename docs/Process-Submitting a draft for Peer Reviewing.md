@@ -11,7 +11,7 @@ The MD editor we recommend is [StackEdit](https://stackedit.io/editor) and [Dill
 Please watch this [video](https://www.youtube.com/watch?v=Iwo5hcqzX5k) on creating a draft for peer review.
 
 ### Submitting your draft
-**Note:** If if you have not familiarized yourself with Github, please read this [tutorial](https://guides.github.com/activities/hello-world/) before proceeding. 
+**Note:** If if you have not familiarized yourself with GitHub, please read this [tutorial](https://guides.github.com/activities/hello-world/) before proceeding. 
 
 ### Step by Step submission:
 1. Fork the peer review repo you’ve joined. If you have a fork already, synchronize it with the original version (in case the original was updated with other people’s posts since you forked it, for example) as per this post.
