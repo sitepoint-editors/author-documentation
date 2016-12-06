@@ -1,4 +1,4 @@
-# Displaying Code - Guidelines
+# Guidelines for Displaying Code
 ---
 Code is one of the most important elements of an article. Therefore it is imperative that you pay attention to the following:
 
