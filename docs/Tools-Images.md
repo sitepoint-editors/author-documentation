@@ -7,4 +7,7 @@ All images in SitePoint articles should be hosted on our CDN. Images for article
 - Images are given to the editor for them to upload into the article. 
 - SitePoint has their own in-house graphic designer, so some editors will have an image created from scratch.
 
-**Image Specifications:** The maximum upload size is 2MB, and the maximum image width is 800 pixels, anything larger than that gets resized. Make sure your images are optimized for the web, use JPEG or PNG-8 and try to avoid PNG-24.
+**Image Specifications:** 
+- The maximum upload size is 2MB
+- The maximum image width is 800 pixels, anything larger than that gets resized. 
+- Make sure your images are optimized for the web, use JPEG or PNG-8 and try to avoid PNG-24.
