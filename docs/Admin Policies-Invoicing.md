@@ -8,7 +8,7 @@ If you've contributed to SitePoint, here's how to get paid.
 General invoicing instructions are available [here](http://www.sitepoint.com/invoicing-sitepoint/), please follow them and everything will (probably) be fine.
 
 ### Payment Frequency
-We typically send out payments once every 14 days, and we tell contributors to expect payments in 10 business days. The invoicing page displays an estimate of the next payment date. There are also additional delays that occur with transactions
+We typically send out payments once every 14 days, and we tell contributors to expect payments in 10 business days. The invoicing page displays an estimate of the next payment date. There are also additional delays that occur with transactions.
 
 ### What to do if things aren't fine
 First, make sure it's been at least 10 business days since you submitted your invoice. Quite often, when someone contacts us to inquire about their lack of payment, the answer is that the payment is about to go out, or is pending.
