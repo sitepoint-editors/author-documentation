@@ -1,5 +1,5 @@
 # Submitting a draft for SitePoint's Peer Review
----
+
 This section will thoroughly teach you how to submit your article for Peer Review. It contains important information about what to consider before submitting.
 
 ### Markdown
