@@ -30,6 +30,6 @@ Here are some examples:
 = **Focus needs to follow the visual layout.** Normally this just happens naturally on a page, and you should mostly be getting this for free because you followed Rule 1 and have a sensible content order. If you need to control the focus order because of the funkiness of your widget, it's preferable to do that with JS setting focus() rather than setting positive tab indices.
 
 ### 5. Label Stuff
-- kasdlj;aoskdl;os;lasd
+- Put the lang attribute on the <html> tag.
 - laijsdlasijdlasijd
 - alhsdjkasndkjashdkj
