@@ -1,5 +1,5 @@
 ## Guidelines to being a SitePoint Peer Reviewer
----
+
 At SitePoint, we endeavour to create articles of the highest standard, and help authors grow. Reviewing helps fellow authors and assists them in publishing quality work. 
 
 Providing feedback is as simple as reading the article and posting your comments on parts you think need to be edited. More on that below.
