@@ -1,5 +1,5 @@
 # Accessibility Guidelines
----
+
 Some guidelines for making example code as accessible as possible.
 
 ### 1. HTML Should be Semantic
