@@ -11,7 +11,7 @@ Follow these guidelines when writing for SitePoint, and refer to them before sub
 
 
 ## Tools
-- [Demo](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Tools-Demo.md) - GitHub, CodePen, JSBin, JSFiddle, Plunker - we use a wide variety of services to show code demos, this doc explains how we manage them and how to do so yourself.
+- [Demos and Downloadable Code Samples](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Tools-Demo.md) - GitHub, CodePen, JSBin, JSFiddle, Plunker - we use a wide variety of services to show code demos, this doc explains how we manage them and how to do so yourself.
 - [Code] (https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Tools-Code.md) - How to present code.
 - [Accessibility](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Tools-Accessibility.md) - How to make code (and articles) more accessible.
 - [Using Trello](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Tools-Using%20Trello.md) - How to use Trello to manage your article pitches. (Recommended read for first time users).
