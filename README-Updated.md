@@ -1,5 +1,5 @@
 # Author Documentation
----
+
 Follow these guidelines when writing for SitePoint, and refer to them before submitting articles and topic pitches to your editor.
 
 ## Process
