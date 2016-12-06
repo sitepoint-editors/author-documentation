@@ -1,5 +1,5 @@
 # Slack
----
+
 [Slack](https://slack.com/) is the primary tool of communications for SitePoint employees, editors and contributors. 
 
 You can use this tool to message editors and fellow authors. **However,** do not use Slack to hound editors about the status of your article.
