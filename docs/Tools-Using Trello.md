@@ -1,5 +1,5 @@
 # What is Trello?
----
+
 [Trello](https://trello.com/) is a project management platform that our editors use to manage article submissions, editing and publication. When you have published one article on the site and editor trusts your writing ability, you will be invited to their Trello board. 
 Read Trello’s [How to Use Trello Like A Pro](http://blog.trello.com/how-to-use-trello-like-a-pro) article for an overview of Trello.
 
