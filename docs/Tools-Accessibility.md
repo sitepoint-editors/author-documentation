@@ -31,5 +31,5 @@ Here are some examples:
 
 ### 5. Label Stuff
 - Put the lang attribute on the `<html>` tag.
-- laijsdlasijdlasijd
-- alhsdjkasndkjashdkj
+- Have a useful `<title>` for the page. Making an SPA? Change that as the view changes to reflect the current page.
+- All form controls should have labels. No, the first option of a `<select>` tag or similar is not a label - he first option is the first option. So add a label. Use the for attribute. If the design calls for no labels, then hide it offscreen or clip it.
