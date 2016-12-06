@@ -15,7 +15,7 @@ Keep your headings short and effective – try for under 6 words.
 
 Make sure you properly capitalize the title as well. Use [TitleCapitalization](http://titlecapitalization.com/) to ensure it is correct. 
 
-(Add in the rest of the spelling and grammar section to the Github)
+(Add in the rest of the spelling and grammar section to the GitHub)
 
 ### Word Count
 Try not to exceed 2000 words. **However,** your ideas and the way they are conveyed should be your biggest focus, not article length.
