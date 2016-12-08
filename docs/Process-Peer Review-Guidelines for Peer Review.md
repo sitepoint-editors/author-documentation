@@ -7,7 +7,7 @@ Providing feedback is as simple as reading the article and posting your comments
 ### What submissions can I review? 
 We recommend you pick posts with the least amount of feedback. Generally, look through the pull requests, but prioritize those posts that are still under review. The older they are, the more important it is to review them.
 
-### How to provide feedback on someone's submission
+### How do I review?
 Below is how you can drop a general comment into a submission:
 
 ![Inserting a comment into a submission](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1434802154peers-review-example.gif)
