@@ -24,6 +24,8 @@ Ensure the subject line is **'[Channel] Peer Review Request'.**
 **Note:** All of our Peer Review processes are completed via GitHub, *therefore you must have a GitHub account to take part.*
 
 When a channel editor invites you to the repository of a channel, you’ll be sent an invite email, but you can also accept the invitation via GithHub’s UI by going to http://github.com/sitepoint-editors and clicking “View Invitation”.
+![Acccepting a repo invite](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1433875614Screenshot-2015-06-09-20.44.33-1024x274.png)
+
 
 ## Frequently Asked Questions (FAQ)
 This section provides answers to the common questions we receive during the Peer Review process. 
