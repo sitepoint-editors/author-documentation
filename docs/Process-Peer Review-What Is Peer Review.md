@@ -1,10 +1,10 @@
 # What is Peer Review?
 
-The goal of Peer Review is to ensure all of SitePoint’s articles are of the highest standards. It is also there to help authors with their writing through constructive feedback from the editor and fellow authors.
+The goal of Peer Review is to ensure all of SitePoint's articles are of the highest standards. It is also there to help authors with their writing through constructive feedback from the editor and fellow authors.
 
 
 **How does Peer Review work?**
-Prior to contacting our editors and requesting access to their Peer Review processes, we recommend reading the following documents first: 
+Prior to contacting our editors and requesting access to their Peer Review processes, we recommend reading the following documents first:
 - [Being SitePoint's Peer Reviewer](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Process-Peer%20Review-Guidelines%20for%20Peer%20Review.md)
 - [Submitting a draft for peer review](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Process-Submitting%20a%20draft%20for%20Peer%20Reviewing.md)
 
@@ -23,12 +23,12 @@ Ensure the subject line is **'[Channel] Peer Review Request'.**
 
 **Note:** All of our Peer Review processes are completed via GitHub, *therefore you must have a GitHub account to take part.*
 
-When a channel editor invites you to the repository of a channel, you’ll be sent an invite email, but you can also accept the invitation via GithHub’s UI by going to http://github.com/sitepoint-editors and clicking “View Invitation”.
+When a channel editor invites you to the repository of a channel, you'll be sent an invite email, but you can also accept the invitation via GithHub's UI by going to http://github.com/sitepoint-editors and clicking “View Invitation”.
 ![Acccepting a repo invite](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1433875614Screenshot-2015-06-09-20.44.33-1024x274.png)
 
 
 ## Frequently Asked Questions (FAQ)
-This section provides answers to the common questions we receive during the Peer Review process. 
+This section provides answers to the common questions we receive during the Peer Review process.
 
 **Q: I have code to include with my article. Where do I put it?**
 
@@ -45,23 +45,23 @@ The final demo code should be put into a GitHub repository on your own GitHub ac
 
 Absolutely.
 
-You can update it and just tell us about it, and we’ll bring the fork into sync with your code. In cases of BC breaks or something incompatible with the article in which the code was presented, we’ll make a disclaimer at the top, usually linking to the exact commit in which the code was when the post was published. Another approach is writing an “X revisited” tutorial in which you go through the changes, explain them, demonstrate them, and turn it all into a learning process. We would, of course, pay for a quality article about the process. This is the preferred method, but is only viable when the difference is noticeable enough.
+You can update it and just tell us about it, and we'll bring the fork into sync with your code. In cases of BC breaks or something incompatible with the article in which the code was presented, we'll make a disclaimer at the top, usually linking to the exact commit in which the code was when the post was published. Another approach is writing an “X revisited” tutorial in which you go through the changes, explain them, demonstrate them, and turn it all into a learning process. We would, of course, pay for a quality article about the process. This is the preferred method, but is only viable when the difference is noticeable enough.
 
 **Q: Can I repost work I published with SitePoint on my own blog?**
 
-We cover this in our Copyright section. (LINK HERE)
+We cover this in our [Copyright section](https://www.sitepoint.com/write-for-us/#contactspforpermission).
 
 **Q: Can I translate a post into my native language and host it on my blog / site?**
 
-We cover this in our Copyright section (LINK HERE)
+We cover this in our [Copyright section](https://www.sitepoint.com/write-for-us/#translations).
 
-**Q: I don’t like giving sites my information and am against social network style hubs. Do I have to use GitHub?**
+**Q: I don't like giving sites my information and am against social network style hubs. Do I have to use GitHub?**
 
 Yes. Feel free to make an anonymous account just for the purpose of publishing your post if it makes you feel better.
 
 **Q: Are links allowed in the author bio?**
 
-Yes. Feel free to put whatever you want in there (within reason), as long as it doesn’t exceed two short paragraphs and can’t be deemed offensive to anyone.
+Yes. Feel free to put whatever you want in there (within reason), as long as it doesn't exceed two short paragraphs and can't be deemed offensive to anyone.
 
 **Q: Does my author avatar have to be a mugshot? Can I upload a logo / illustration / etc?**
 
