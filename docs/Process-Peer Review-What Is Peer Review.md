@@ -10,14 +10,14 @@ Prior to contacting our editors and requesting access to their Peer Review proce
 
 
 To contact the editor and join their Peer Review process, please find their details below:
-- [PHP](https://www.sitepoint.com/php/) – contact [Bruno Skvorc](bruno.skvorc@sitepoint.com) to join
-- [Mobile](https://www.sitepoint.com/mobile/) – contact [Ariel Elkin](ariel.elkin@sitepoint.com) to join
-- [JavaScript](https://www.sitepoint.com/javascript/) – contact [James Hibbard](james.hibbard@sitepoint.com) or [Nilson Jacques](nilson.jacques@sitepoint.com) to join
-- [Ruby](https://www.sitepoint.com/ruby/) – contact [Glenn Goodrich](glenn.goodrich@sitepoint.com) to join
-- [WordPress](https://www.sitepoint.com/wordpress/) – contact [Chris Burgess](chris.burgess@sitepoint.com) to join
-- [HTML/CSS](https://www.sitepoint.com/html-css/) – contact [Patrick Catanzariti](patrick.catanzariti@sitepoint.com) to join
-- Emerging Tech (Virtual reality, Augmented reality, Internet of Things, wearables, smartwatches, blockchain, artificial intelligence, robotics) – contact [Patrick Catanzariti](patrick.catanzariti@sitepoint.com) to join
-- Everything else (Unity, C, C#, Lua, Python, etc.) – contact [Bruno Skvorc](bruno.skvorc@sitepoint.com) or [Ralph Mason](ralph.mason@sitepoint.com) to join
+- [PHP](https://www.sitepoint.com/php/) – contact [Bruno Skvorc](mailto:bruno.skvorc@sitepoint.com) to join
+- [Mobile](https://www.sitepoint.com/mobile/) – contact [Ariel Elkin](mailto:ariel.elkin@sitepoint.com) to join
+- [JavaScript](https://www.sitepoint.com/javascript/) – contact [James Hibbard](mailto:james.hibbard@sitepoint.com) or [Nilson Jacques](mailto:nilson.jacques@sitepoint.com) to join
+- [Ruby](https://www.sitepoint.com/ruby/) – contact [Glenn Goodrich](mailto:glenn.goodrich@sitepoint.com) to join
+- [WordPress](https://www.sitepoint.com/wordpress/) – contact [Chris Burgess](mailto:chris.burgess@sitepoint.com) to join
+- [HTML/CSS](https://www.sitepoint.com/html-css/) – contact [Patrick Catanzariti](mailto:patrick.catanzariti@sitepoint.com) to join
+- Emerging Tech (Virtual reality, Augmented reality, Internet of Things, wearables, smartwatches, blockchain, artificial intelligence, robotics) – contact [Patrick Catanzariti](mailto:patrick.catanzariti@sitepoint.com) to join
+- Everything else (Unity, C, C#, Lua, Python, etc.) – contact [Bruno Skvorc](mailto:bruno.skvorc@sitepoint.com) or [Ralph Mason](mailto:ralph.mason@sitepoint.com) to join
 
 Ensure the subject line is **'[Channel] Peer Review Request'.**
 
