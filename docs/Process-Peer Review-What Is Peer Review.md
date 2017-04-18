@@ -13,7 +13,7 @@ To contact the editor and join their Peer Review process, please find their deta
 - [PHP](https://www.sitepoint.com/php/) – contact [Bruno Skvorc](mailto:bruno.skvorc@sitepoint.com) to join
 - [Mobile](https://www.sitepoint.com/mobile/) – contact [Ariel Elkin](mailto:ariel.elkin@sitepoint.com) to join
 - [JavaScript](https://www.sitepoint.com/javascript/) – contact [James Hibbard](mailto:james.hibbard@sitepoint.com) or [Nilson Jacques](mailto:nilson.jacques@sitepoint.com) to join
-- [WordPress](https://www.sitepoint.com/wordpress/) – contact [Chris Burgess](mailto:chris.burgess@sitepoint.com) to join
+- [WordPress](https://www.sitepoint.com/wordpress/) – contact [Jeff Smith](mailto:jeff.smith@sitepoint.com) to join
 - [HTML/CSS](https://www.sitepoint.com/html-css/) – contact [Louis Lazaris](mailto:louis.lazaris@sitepoint.com) or [Maria Perna](maria.perna@sitepoint.com) to join
 - Everything else (Unity, C, C#, Lua, Python, etc.) – contact [Bruno Skvorc](mailto:bruno.skvorc@sitepoint.com) or [Ralph Mason](mailto:ralph.mason@sitepoint.com) to join
 
