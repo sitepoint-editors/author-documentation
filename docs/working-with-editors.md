@@ -6,7 +6,7 @@ SitePoint’s editors are professional web designers or developers at the top of
 
 ### Pitching
 
-SitePoint publishes about 40 articles per week across our channels. In order to maintain a balance in our coverage of different topics, and to ensure that we don’t publish articles that are too similar to one another, you will be required to send in an topic suggestion (a pitch) prior to writing the article. One of our editors will review your pitch, get in touch with any questions or feedback, and either suggest you try a different topic or ask for an outline. Before pitching, read [the documentation here](pitching.md).
+SitePoint publishes about 40 articles per week across our channels. In order to maintain a balance in our coverage of different topics, and to ensure that we don’t publish articles that are too similar to one another, you will be required to send in an topic suggestion (a pitch) prior to writing the article. One of our editors will review your pitch and get in touch if they like what they see. Pitch using the form on [this page](https://www.sitepoint.com/write-for-us/).
 
 ### Outlines
 
