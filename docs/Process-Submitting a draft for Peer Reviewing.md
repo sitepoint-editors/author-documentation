@@ -5,7 +5,7 @@ This section will thoroughly teach you how to submit your article for Peer Revie
 ### Markdown
 We only accept drafts in a MarkDown (.md) file. If you are not familiar with MarkDown files, [here is a great resource to get you started.](http://www.markdowntutorial.com/)
 
-The MD editor we recommend is [StackEdit](https://stackedit.io/editor) and [Dillinger](http://www.dillinger.io/). 
+The MD editors we recommend are [StackEdit](https://stackedit.io/editor) and [Dillinger](http://www.dillinger.io/). 
 
 ### Video: How to create a draft for Peer Review
 Please watch this [video](https://www.youtube.com/watch?v=Iwo5hcqzX5k) on creating a draft for peer review.
