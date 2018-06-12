@@ -8,16 +8,6 @@ Prior to contacting our editors and requesting access to their Peer Review proce
 - [Being SitePoint's Peer Reviewer](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Process-Peer%20Review-Guidelines%20for%20Peer%20Review.md)
 - [Submitting a draft for peer review](https://github.com/sitepoint-editors/author-documentation/blob/master/docs/Process-Submitting%20a%20draft%20for%20Peer%20Reviewing.md)
 
-
-To contact the editor and join their Peer Review process, please find their details below:
-- [PHP](https://www.sitepoint.com/php/) – contact [Bruno Skvorc](mailto:bruno.skvorc@sitepoint.com) to join
-- [JavaScript](https://www.sitepoint.com/javascript/) – contact [Nilson Jacques](mailto:nilson.jacques@sitepoint.com) to join
-- [WordPress](https://www.sitepoint.com/wordpress/) – contact [Jeff Smith](mailto:jeff.smith@sitepoint.com) to join
-- [HTML/CSS](https://www.sitepoint.com/html-css/) – contact [Louis Lazaris](mailto:louis.lazaris@sitepoint.com) or [Maria Perna](maria.perna@sitepoint.com) to join
-- Everything else (Unity, C, C#, Lua, Python, etc.) – contact [Bruno Skvorc](mailto:bruno.skvorc@sitepoint.com) or [Ralph Mason](mailto:ralph.mason@sitepoint.com) to join
-
-Ensure the subject line is **'[Channel] Peer Review Request'.**
-
 **Note:** All of our Peer Review processes are completed via GitHub, *therefore you must have a GitHub account to take part.*
 
 When a channel editor invites you to the repository of a channel, you'll be sent an invite email, but you can also accept the invitation via GithHub's UI by going to http://github.com/sitepoint-editors and clicking “View Invitation”.
