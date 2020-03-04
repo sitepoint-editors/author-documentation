@@ -25,7 +25,7 @@ Please watch this [video](https://www.youtube.com/watch?v=Iwo5hcqzX5k) on creati
 4. Make a sub-folder for your post. Prefix the name with the number of posts in your folder. For example, if this is your first post in this repository, prefix with 01. For example, if your tutorial is called “How to set up ACL with Sentry in Laravel”, a good folder name is “01 – Sentry ACL in Laravel” and a bad name is “01 – sentrylar”
 ![Step 4](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1434742805peers-article-folder.gif)
 
-5. Inside that folder, put the draft in MarkDown format (the file name doesn’t matter as long as it ends in .md) and related images (if you wish to include any in the post).
+5. Inside that folder, put the draft in MarkDown format (the file name doesn’t matter as long as it ends in .md). If you wish to include images in a post, please check with your editor. Some editors are happy for you to include them in the same folder as your article, whereas others (e.g. the JavaScript channel eds) prefer authors to upload images directly to SitePoint's CDN.  
 ![Step 5](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/06/1434742797peers-article-draft.gif)
 
 6. Commit the changes you have made, then push them to your fork on GitHub. Notice that we are pushing the branch we created, not the master:
