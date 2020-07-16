@@ -23,7 +23,7 @@ Try not to exceed 2000 words. **However,** your ideas and the way they are conve
 Word count does not include code. 
 
 ### Spelling, Grammar, Consistency and Acceptable Language
-All articles published on SitePoint should be free of spelling and grammar mistakes. But we're all human and sometimes we miss little errors, so if you spot a mistake, please inform the editor. 
+All articles published on SitePoint should be free of spelling and grammar mistakes, but we're all human and sometimes we miss little errors. If you spot a mistake, please inform the editor. 
 
 **Spelling:** 
 - Please use a spell checker as you write. For example, a good resource is [Grammarly](https://app.grammarly.com/).
@@ -37,7 +37,7 @@ All articles published on SitePoint should be free of spelling and grammar mista
     - to, too, two
 - Company names - Capitilize according to the company’s style when writing about startups, companies and products. For example: SitePoint, WordPress, jQuery, iPhone, GitHub.
 - Sentences that start with a lowercased company or product, like 'iPhone' or 'jQuery' should retain the style.
-- Understand that a hyphen is not the same as a long dash. Hyphens are used for math and phone numbers, whereas long dashes are used at the start of an interjection in a sentence. 
+- Understand that a hyphen is not the same as an em dash. Hyphens are used for math and phone numbers, whereas em dashes are used at the start of an interjection in a sentence. 
 
 **Consistency:**
 - The structure and presentation of a sentence should be consistent throughout. For example, if you're listing actions and you use "running", the next action should be "jumping" (etc.) to match the form of the verb. 
